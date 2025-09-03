@@ -6,7 +6,32 @@
 
 
 
+First LXC 
 
+
+
+
+
+<a id="Portainer"></a>
++ Portainer
+
+
+https://community-scripts.github.io/ProxmoxVE/scripts?id=docker
+
+
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/docker.sh)"
+
+
+
+
+
+<a id="Portainer_Agent"></a>
++ Portainer Agent
+
+https://community-scripts.github.io/ProxmoxVE/scripts?id=docker
+
+
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/ct/docker.sh)"
 
 
 
@@ -33,8 +58,11 @@ https://frigate.video/
 
 Installation
 
-Link to YouTube Video
-#### Coming Soon!!
+Here is a link to my YouTube video covering all the steps if you don't like reading.
+
++ Link Coming Soon!!
+
+
 
 
 
@@ -153,3 +181,17 @@ lxc.mount.entry: /dev/dri/renderD128 dev/dri/renderD128 none bind,optional,creat
 
 
 <p align="right"><a href="#readme_top">back to top</a></p>
+
+
+
+
+Optional
+
+<a id="Watchtower"></a>
++ Watchtower
+
+<p align="right"><a href="#readme_top">back to top</a></p>
+
+
+
+
