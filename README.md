@@ -1,12 +1,45 @@
 <a id="readme_top"></a>
 ## Frigate
 
+#### Overview
 
+Frigate is a free, open-source NVR (Network Video Recorder) system designed specifically for real-time AI-powered object detection. It’s commonly used in home automation setups, especially when privacy, performance, and local processing are a priority.
+
++ https://frigate.video/
+
+#### Guides
+
+If you want to give you Smart Home some eyes Frigate is what you need. This will allow you to locally control all your cameras.  
+The link below will take you to all the guides starting with how to install Frigate on Proxmox. You will also find more advanced configuration details to help you use Frigate to is full capabilities.
+
++ #### Coming Soon!!
+
+
+<!--
+
+
+-->
 
 
 
 
 First LXC 
+
+
+
+<summary><u>Table of Contents</u></summary>
+
++ <a href="#Home_Assistant_Installation_on_Proxmox">Installation Process on Proxmox</a>
+	+ <a href="#Home_Assistant_Installation_on_Proxmox">Key Setting after Installation</a>
+
++ <a href="#Home Assistant Key Integrations and Add-ons">Key Integrations and/or Add-ons</a>.
+	+ <a href="#Get_HACS">Get HACS</a>
++ <a href="#Integrations">Other Integrations and/or Add-ons</a>
+	+ <a href="#Get_HACS">Frigaet</a>
++ <a href="#Integrations">Other Home Assistant Fun Projects</a>
+
+
+
 
 
 
