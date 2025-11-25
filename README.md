@@ -1,3 +1,5 @@
+
+
 <a id="readme_top"></a>
 ## Frigate
 
@@ -15,10 +17,9 @@ The link below will take you to all the guides starting with how to install Frig
 + #### Coming Soon!!
 
 
-<!--
 
 
--->
+
 
 
 
@@ -40,6 +41,7 @@ First LXC
 
 
 
+<!--
 
 
 
@@ -225,6 +227,12 @@ Optional
 
 <p align="right"><a href="#readme_top">back to top</a></p>
 
+
+
+
+
+
+-->
 
 
 
