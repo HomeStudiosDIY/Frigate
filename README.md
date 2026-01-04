@@ -1,7 +1,8 @@
 
+## Frigate
 
 <a id="readme_top"></a>
-## Frigate
+
 
 #### Overview
 
@@ -11,8 +12,14 @@ Frigate is a free, open-source NVR (Network Video Recorder) system designed spec
 
 #### Guides
 
-If you want to give you Smart Home some eyes Frigate is what you need. This will allow you to locally control all your cameras.  
-The link below will take you to all the guides starting with how to install Frigate on Proxmox. You will also find more advanced configuration details to help you use Frigate to is full capabilities.
+If you want to give you Smart Home some eyes Frigate is what you need. This will allow you to have locally control all your cameras.  
+The links below will take you to all the guides starting with how to install Frigate on Proxmox. You will also find more advanced configuration details to help you use Frigate to is full capabilities.
+
+
+
+
+
+
 
 + #### Coming Soon!!
 
@@ -41,14 +48,12 @@ First LXC
 
 
 
-<!--
 
 
 
 
-
-<a id="Portainer"></a>
 + Portainer
+<a id="Portainer"></a>
 
 
 https://community-scripts.github.io/ProxmoxVE/scripts?id=docker
@@ -60,8 +65,11 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 
 
 
-<a id="Portainer_Agent"></a>
+
+
 + Portainer Agent
+<a id="Portainer_Agent"></a>
+
 
 https://community-scripts.github.io/ProxmoxVE/scripts?id=docker
 
@@ -147,11 +155,17 @@ pct set 104 -mp0 /mnt/pve/disk4tb/frigate,mp=/data/cctv/
 
 from Proxmox Shell
 
+
+
 USB Coral
+
+
 
 nano /etc/pve/lxc/104.conf
 
-	lxc.mount.entry: /dev/bus/usb/002/ dev/bus/usb/002/ none bind,optional,create=dir 0,0
+
+
+lxc.mount.entry: /dev/bus/usb/002/ dev/bus/usb/002/ none bind,optional,create=dir 0,0
 
 
 
@@ -226,13 +240,5 @@ Optional
 + Watchtower
 
 <p align="right"><a href="#readme_top">back to top</a></p>
-
-
-
-
-
-
--->
-
 
 
